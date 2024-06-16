@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Web_HTML_TO_PDF.props" />
+</Project>

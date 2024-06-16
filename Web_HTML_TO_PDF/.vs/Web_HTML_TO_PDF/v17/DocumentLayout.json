@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\dot net core project\\dot_net_html_to_pdf\\Web_HTML_TO_PDF\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9892DD20-4A44-4D85-92EB-3E96F71183FC}|Web_HTML_TO_PDF\\Web_HTML_TO_PDF.csproj|e:\\dot net core project\\dot_net_html_to_pdf\\web_html_to_pdf\\web_html_to_pdf\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9892DD20-4A44-4D85-92EB-3E96F71183FC}|Web_HTML_TO_PDF\\Web_HTML_TO_PDF.csproj|solutionrelative:web_html_to_pdf\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9892DD20-4A44-4D85-92EB-3E96F71183FC}|Web_HTML_TO_PDF\\Web_HTML_TO_PDF.csproj|e:\\dot net core project\\dot_net_html_to_pdf\\web_html_to_pdf\\web_html_to_pdf\\views\\pdf\\_invoicepdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9892DD20-4A44-4D85-92EB-3E96F71183FC}|Web_HTML_TO_PDF\\Web_HTML_TO_PDF.csproj|solutionrelative:web_html_to_pdf\\views\\pdf\\_invoicepdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_invoicepdf.cshtml",
+              "DocumentMoniker": "E:\\dot net core project\\dot_net_html_to_pdf\\Web_HTML_TO_PDF\\Web_HTML_TO_PDF\\Views\\pdf\\_invoicepdf.cshtml",
+              "RelativeDocumentMoniker": "Web_HTML_TO_PDF\\Views\\pdf\\_invoicepdf.cshtml",
+              "ToolTip": "E:\\dot net core project\\dot_net_html_to_pdf\\Web_HTML_TO_PDF\\Web_HTML_TO_PDF\\Views\\pdf\\_invoicepdf.cshtml",
+              "RelativeToolTip": "Web_HTML_TO_PDF\\Views\\pdf\\_invoicepdf.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T19:52:21.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "E:\\dot net core project\\dot_net_html_to_pdf\\Web_HTML_TO_PDF\\Web_HTML_TO_PDF\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "Web_HTML_TO_PDF\\Controllers\\PdfController.cs",
+              "ToolTip": "E:\\dot net core project\\dot_net_html_to_pdf\\Web_HTML_TO_PDF\\Web_HTML_TO_PDF\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "Web_HTML_TO_PDF\\Controllers\\PdfController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:43:17.703Z",
+              "EditorCaption": ""
             }
           ]
         }

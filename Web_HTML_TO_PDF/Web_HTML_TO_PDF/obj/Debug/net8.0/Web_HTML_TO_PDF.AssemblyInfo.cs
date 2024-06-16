@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_HTML_TO_PDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6531a8e5771b664ce45d1bb8915395c16707efcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_HTML_TO_PDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_HTML_TO_PDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
